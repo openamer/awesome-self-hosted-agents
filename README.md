@@ -23,6 +23,8 @@ An entry marked (submitted by its maintainer) was added by the people who make t
 
 - [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI assistant with local models, tools, skills and chat channels.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) - AI agent with tools, memory, skills, local models and chat integrations.
+- [Kortix](https://github.com/kortix-ai/suna) - The open-source AI Operating System: a team's agents, skills, memory and connectors in one repository it owns, run on its own server with Docker Compose. (submitted by its maintainer)
+
 - [Dify](https://github.com/langgenius/dify) - Platform for agent workflows and RAG pipelines. (source-available)
 - [OpenHands](https://github.com/OpenHands/OpenHands) - Self-hosted control center for coding agents and automations.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Workspace for local models, agents and retrieval.
